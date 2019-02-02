@@ -35,6 +35,8 @@ npm -V
 _______________
 > Comandos utilizados na Aula:
 
-``` npm init ```
+```
+npm init
+```
 
 - Após esse comando, será perguntado algumas informações sobre o Projeto, como nome, versão, pasta raiz, repositório git, licença, etc... Pode-se prosseguir dando enter ou inserindo as informações de acordo com o solicitado, fica ao seu critério, pois posteriormente iremos mexer no arquivo gerado por este comando.

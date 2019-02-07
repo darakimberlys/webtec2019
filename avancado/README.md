@@ -2,9 +2,11 @@
 
 > ### Instrutores: [Isac Petinate](https://github.com/IsacPetinate) & [Pedro Bruini](https://github.com/Bruini)
 
+______
+
 > Este repositório tem como objetivo armazenar todo o material do avançado da WebTec para que os alunos possam consultar e clonar o repo para estudo e fins.
 
-_____________________________________
+______
 
 > Grade de Aulas do Semestre (2019/1):
 

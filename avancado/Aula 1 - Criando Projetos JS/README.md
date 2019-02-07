@@ -1,13 +1,16 @@
-# Aula 1: Criando Projetos JS com NPM
+# Aula 1 - Criando Projetos JS com NPM
 
-> Nesta aula iremos aprender a iniciar um projeto Js utilizando o NPM. 
+> Nesta aula iremos aprender a iniciar um projeto JS utilizando o NPM. 
+
 _______________
-> Requisitos para a Aula:
 
-- Node instalado e atualizado (na versão par mais recente LTS)
-- Terminal ou PowerShell para comandos
-- VSCode, Atom, Sublime, Nano ou Emacs (terminal), editor de preferência.
-- Opcional: Git
+> Requisitos para a aula:
+
+- Node e NPM
+- VSCode (ou outro editor de preferência)
+- Terminal ou PowerShell
+- Navegador
+
 _______________
 
 - Node é um aplicativo para JavaScript, ele permite a criação de aplicações Back-end utilizando JS e TS, para instalar o node em seu sistema, acesse o site oficial e faça o download da versão LTS, a instalação é simples NEXT NEXT FINISH. Site oficial > [Node](http://nodejs.org)

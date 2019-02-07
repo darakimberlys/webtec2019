@@ -1,6 +1,6 @@
-# Aula 1: Configurando Projetos JS com NPM
+# Aula 1: Criando Projetos JS com NPM
 
-> Nesta aula iremos aprender a iniciar um projeto de forma dinâmica utilizando o NPM.
+> Nesta aula iremos aprender a iniciar um projeto Js utilizando o NPM. 
 _______________
 > Requisitos para a Aula:
 

@@ -1,7 +1,7 @@
 {
   "name": "projeto-npm",
   "version": "1.0.0",
-  "description": "Projeto da Aula 1 - NPM",
+  "description": "Aula 1 - Criando Projetos JS com NPM",
   "main": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,6 @@
     "Aula1",
     "JavaScript"
   ],
-  "author": "Isac Petinate & Pedro Bruini",
+  "author": "WebTec - Isac Petinate & Pedro Bruini",
   "license": "MIT"
 }

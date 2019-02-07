@@ -1,11 +1,11 @@
 {
-  "name": "aula2",
+  "name": "aula3",
   "version": "1.0.0",
-  "description": "Aula 2: Tipos Primitivos e Variáveis",
+  "description": "Aula 3 - Funções e Escopo de Variáveis",
   "main": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Isac Petinate % Pedro Bruini",
+  "author": "WebTec - Isac Petinate & Pedro Bruini",
   "license": "MIT"
 }

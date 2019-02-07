@@ -13,7 +13,7 @@ _______________
 
 _______________
 
-- Node é um aplicativo para JavaScript, ele permite a criação de aplicações Back-end utilizando JS e TS, para instalar o node em seu sistema, acesse o site oficial e faça o download da versão LTS, a instalação é simples NEXT NEXT FINISH. Site oficial > [Node](http://nodejs.org)
+- Node.js é uma plataforma construída sobre o motor JavaScript do Google Chrome para facilmente construir aplicações de rede rápidas e escaláveis. Ele permite a criação de aplicações Back-end utilizando JS e TS, para instalar o node em seu sistema, acesse o site oficial e faça o download da versão LTS (a instalação é simples NEXT NEXT FINISH). Site oficial > [Node](http://nodejs.org)
 
 
 ```

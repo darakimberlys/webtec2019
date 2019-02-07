@@ -17,10 +17,10 @@ _____________________________________
 * Aula 5 - Métodos e Classes
 * Projeto JS
 * Projeto Vue
-    * Criando um Projeto Vue.Js + Arquitetura
-    * Criando Componentes Web (Single File)
-    * Vue Router - criando rotas dinâmicas (SPA)
-    * Hospedando o Projeto com GIT e Netlify
+    * Aula 6 - Criando um Projeto Vue.Js + Arquitetura
+    * Aula 7 - Criando Componentes Web (Single File)
+    * Aula 8 - Vue Router - criando rotas dinâmicas (SPA)
+    * Aula 9 - Hospedando o Projeto com GIT e Netlify
 
 _____________________________________
 

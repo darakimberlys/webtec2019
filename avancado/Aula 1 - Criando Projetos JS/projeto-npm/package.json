@@ -12,5 +12,17 @@
     "JavaScript"
   ],
   "author": "WebTec - Isac Petinate & Pedro Bruini",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.12.24",
+    "bootstrap": "^4.2.1",
+    "gulp-typescript": "^5.0.0",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.3"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0"
+  }
 }

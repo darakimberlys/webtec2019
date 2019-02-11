@@ -1,0 +1,16 @@
+{
+    "files": [
+        "src/typescript/script.ts"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es5",
+        "outDir": "./src/js"
+    },
+    "include": [
+        "./src"
+    ],
+    "exclude": [
+        "node_modules/"
+    ]
+}

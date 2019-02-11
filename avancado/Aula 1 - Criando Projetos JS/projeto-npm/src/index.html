@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <title>Aula 1</title>
     <!-- Meta Tags -->
@@ -7,20 +8,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!-- Link Tags -->
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
     <link rel="shortcut icon" href="favicon.ico">
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    <header>
-        <span>Aula 1</span>
-    </header>
-    <main>
-        <h1>Aula 1: Configurando Projetos JS com NPM</h1>
-        <p>
-            Nesta aula iremos iniciar um projeto JS utilziando o NPM,
-            gerenciador de pacotes do Node
-        </p>
-    </main>
-    <footer>WebTec © 2019</footer>
+    <div class="container-fluid">
+        <div class="">
+            <nav class="navbar navbar-dark bg-dark">
+                <span>WebTec</span>
+                <!--  -->
+                <ul class="menuLink">
+                    <li>Grade de Aulas</li>
+                    <li>Sobre Nós</li>
+                    <li>Contato</li>
+                </ul>
+            </nav>
+        </div>
+        <div class="row main">
+            <div class="col-md-12">
+                <h1>Aula 1: Configurando Projetos JS com NPM</h1>
+                <p>
+                    Nesta aula iremos iniciar um projeto JS utilziando o NPM,
+                    gerenciador de pacotes do Node
+                </p>
+            </div>
+        </div>
+        <div class="row footer">
+            <footer>WebTec © 2019</footer>
+        </div>
+    </div>
+    <!-- Scripts Js -->
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="./js/script.js"></script>
 </body>
+
 </html>

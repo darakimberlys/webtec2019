@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>WebTec</title>
+    <!-- Meta Tags -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta charset="UTF-8">
+    <!-- Link Tags -->
+    <link rel="stylesheet" href="../../node_modules/@mdi/font/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="../../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../app/css/style.css">
+    <link rel="shortcut icon" href="./favicon.ico">
+</head>
+
+<body>
+    <div class="row menu d-flex justify-content-between">
+        <div>
+            <img class="logo" src="./img/logo.png" alt="">
+        </div>
+        <div class="menu-button">
+            <a href="#">
+                <span class="mdi mdi-menu"></span>
+            </a>
+        </div>
+    </div>
+    <!-- Main Content -->
+    <main class="row mt-3 justify-content-center">
+        <img id="terminal" src="./img/terminal.png" alt="MacOS Terminal Window">
+        <p id="typed"></p>
+    </main>
+    <!-- Scripts JS -->
+    <script src="../../node_modules/typed.js/lib/typed.min.js"></script>
+    <script>
+        var typed = new Typed("#typed", {
+            stringsElement: '#NAO FUNCIONAAAAAAAAA',
+            typeSpeed: 30,
+            backSpeed: 20,
+        })
+    </script>
+</body>
+
+</html>s

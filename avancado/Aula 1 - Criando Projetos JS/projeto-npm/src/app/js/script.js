@@ -1,12 +1,6 @@
 var Calculos = /** @class */ (function () {
     function Calculos() {
     }
-    // public a: number;
-    // public b: number;
-    // constructor (a: number, b: number) {
-    //     this.a = a;
-    //     this.b = b;
-    // }
     Calculos.prototype.somar = function (a, b) {
         return a + b;
     };
@@ -21,6 +15,9 @@ var Calculos = /** @class */ (function () {
     };
     return Calculos;
 }());
+
 var calculo = new Calculos();
+
 var soma = calculo.somar(10, 33);
-document.getElementById('#soma').innerHTML = String(soma);
+
+console.log(soma);

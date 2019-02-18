@@ -4,23 +4,24 @@
 
 ______
 
-> Este repositório tem como objetivo armazenar todo o material do básico da WebTec para que os alunos possam consultar e clonar o repo para estudo e fins.
+> Este repositório tem como objetivo armazenar todo o material do básico da WebTec para que os alunos possam consultar e clonar o repo para estudo e afins.
 
 ______
 
 > Grade de Aulas do Semestre (2019/1):
 
-* Aula 1 - Criando Projetos JS
-* Aula 2 - Conhecendo o JavaScript
-* Aula 3 - Funções e Escopos do JavaScript
-* Aula 4 - Manipulando o DOM do HTML
-* Aula 5 - Métodos e Classes
-* Projeto JS
-* Projeto Vue
-    * Aula 6 - Criando um Projeto Vue.Js + Arquitetura
-    * Aula 7 - Criando Componentes Web (Single File)
-    * Aula 8 - Vue Router - criando rotas dinâmicas (SPA)
-    * Aula 9 - Hospedando o Projeto com GIT e Netlify
+* Aula 1 - O que é uma página Web? Como posso criá-la? 
+* Aula 2 - Semântica, Tipografia e Tabelas
+* Aula 3 - Atributos, Formulários e Mídias
+* Aula 4 - Em breve...
+* Aula 5 - Em breve...
+* Aula 6 - Em breve...
+* Aula 7 - Em breve...
+* Aula 8 - Em breve...
+* Aula 9 - Em breve...
+* Aula 10 - Em breve...
+* Aula 11 - Em breve...
+* Projeto: Criando meu Portfólio
 
 _____________________________________
 

@@ -10,7 +10,7 @@ ______
 
 > Grade de Aulas do Semestre (2019/1):
 
-* Aula 1 - O que é uma página Web? Como posso criá-la? 
+* Aula 1 - Introdução a páginas Web
 * Aula 2 - Semântica, Tipografia e Tabelas
 * Aula 3 - Atributos, Formulários e Mídias
 * Aula 4 - Em breve...

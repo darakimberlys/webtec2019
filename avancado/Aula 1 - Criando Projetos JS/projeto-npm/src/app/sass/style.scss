@@ -21,11 +21,10 @@ body {
 }
 
 #terminal {
+    box-shadow: 5px 5px #0000007e;
     justify-content: center;
     align-content: center;
-    height: 50%;
     width: 50%;
-    z-index: 1;
 }
 
 .logo {

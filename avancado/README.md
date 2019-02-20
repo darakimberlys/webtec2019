@@ -32,7 +32,7 @@ _____________________________________
 
 - Automatizadores e Bundlers: Gulp e WebPack
 
-- Editor de Texto:
+- Editores de Texto:
     - Visual Studio Code
         - Plugins:
             - Emmet

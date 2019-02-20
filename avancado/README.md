@@ -59,3 +59,11 @@ _____________________________________
         - Os mesmos plugins
         - Tema: OneDark
         - Os mesmos suportes
+
+____________________
+> Links Úteis
+
+- [O que o JavaScript? - MDN](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/O_que_e_JavaScript)
+- [JavaScript para Iniciantes](http://tableless.github.io/iniciantes/manual/js/)
+- [Playlists do Keven Jesus sobre JavaScript (curso completo)](https://www.youtube.com/channel/UCn2jh8rvEePP9s61z-H1P1w/playlists)
+- [JavaScript - Wikipedia](https://pt.wikipedia.org/wiki/JavaScript)

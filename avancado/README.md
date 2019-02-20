@@ -32,9 +32,10 @@ _____________________________________
 
 - Automatizadores e Bundlers: Gulp e WebPack
 
-- Editores de Texto:
+- Editor de Texto:
     - Visual Studio Code
         - Plugins:
+            - Emmet
             - Live Server
             - vscode-spotify
             - ESLint e TSLint
@@ -49,9 +50,12 @@ _____________________________________
             - Flatland Monokai Theme (ativo atualmente)
             - Dark Sea
             - Material Icon Theme (icones)
-            
+
         - Suporte para:
             - JavaScript e TypeScript (com sugestões)
             - C# (OmniSharp)
 
-    - Atom, Sublime, Brackets
+    - Atom
+        - Os mesmos plugins
+        - Tema: OneDark
+        - Os mesmos suportes

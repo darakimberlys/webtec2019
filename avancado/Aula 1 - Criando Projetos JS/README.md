@@ -55,12 +55,22 @@ npm install bootstrap
 _________________________
 > Sobre a Estrutura de Pastas e Arquivos:
 
-- Em projetos mais complexos ou que tendem a ficar robustos, nós tomamos uma abordagem diferente para a estrutura e organização interna. Pense que a forma como estrutura os arquivos do seu projeto farão com que ele seja facil de fazer manutenção
+- Em projetos mais complexos ou que tendem a ficar robustos, nós tomamos uma abordagem diferente para a estrutura e organização interna. Uma estrutura bem planejada melhora a comunicação do projeto com outros projetos ou módulos, melhora a comunicação interna entre componentes, e faz com que as coisas fiquem mais objetivas, facilitando a manutenção e entendimento do projeto.
+
+- raiz -> aqui ficam os arquivos e pastas principais e de configuração do projeto
+    - /database -> esta pasta contém arquivos json para simular um banco de dados.
+    - /node_modules -> dependencias e arquivos do node para que tudo funcione corretamente.
+    - /src -> esta pasta é a pasta 'source', onde fica todo o código fonte da aplicação.
+        - /app -> aqui nós colocamos os arquivos principais da nossa aplicação/site.
+            - Aqui temos diversas pastas e arquivos, para css, js, sass/scss, imagens, nossa index, etc...
+        - /domain -> esta pasta recebe os scripts de conexão com API, aqui vai parte da regra de negócio (dependendo da abordagem de negócio).
+            - Neste diretório podemos separar scripts de API e de Services, além de classes e outros elementos.
 _________________________
 Material de Apoio:
 
 - [Node Package Manager - Site Oficial](https://www.npmjs.com/)
-  - Neste site você pode pesquisar pacotes e dependencias para instalar no seu projeto, ele traz algumas informações além do comando de instalação, e ainda informa quais as dependencias do pacote em questao.
+  - Neste site você pode pesquisar pacotes e dependências para instalar no seu projeto, ele traz algumas informações além do comando de instalação, e ainda informa quais as dependências do pacote em questao.
 
 - [O que é Arquitetura de Software?](https://msdn.microsoft.com/pt-br/hh144976.aspx)
 - [JavaScript - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+    - Este é um dos sites mais importantes, ele traz as últimas especificações do JS, além de artigos, tutoriais, e material para consulta sobre a linguagem, é praticamente a Documentação Oficial.

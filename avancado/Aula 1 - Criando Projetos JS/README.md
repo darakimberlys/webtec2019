@@ -56,5 +56,5 @@ npm install bootstrap
 _________________________
 Material de Apoio:
 
-- (Node Package Manager - Site Oficial)[https://www.npmjs.com/]
+- [Node Package Manager - Site Oficial](https://www.npmjs.com/)
   - Neste site você pode pesquisar pacotes e dependencias para instalar no seu projeto, ele traz algumas informações além do comando de instalação, e ainda informa quais as dependencias do pacote em questao.

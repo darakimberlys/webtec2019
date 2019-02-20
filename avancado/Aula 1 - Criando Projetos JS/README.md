@@ -43,3 +43,18 @@ npm init
 ```
 
 - Após esse comando, será perguntado algumas informações sobre o Projeto, como nome, versão, pasta raiz, repositório git, licença, etc... Pode-se prosseguir dando enter ou inserindo as informações de acordo com o solicitado, fica ao seu critério, pois posteriormente iremos mexer no arquivo gerado por este comando.
+
+```
+npm install
+
+npm install bootstrap
+```
+
+- NPM Install - baixa as dependencias do projeto (util para atualizar dependencias e pacotes, além de instalar do zero as dependencias ao clonar do git ou pegar o projeto de outra pessoa).
+- NPM Install <Dependencia/Pacote> - serve para baixar um novo pacote ou dependencia, passando o nome do que deseja instalar no projeto (sem os sinais de <>).
+
+_________________________
+Material de Apoio:
+
+- (Node Package Manager - Site Oficial)[https://www.npmjs.com/]
+  - Neste site você pode pesquisar pacotes e dependencias para instalar no seu projeto, ele traz algumas informações além do comando de instalação, e ainda informa quais as dependencias do pacote em questao.

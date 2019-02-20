@@ -52,9 +52,15 @@ npm install bootstrap
 
 - NPM Install - baixa as dependencias do projeto (util para atualizar dependencias e pacotes, além de instalar do zero as dependencias ao clonar do git ou pegar o projeto de outra pessoa).
 - NPM Install <Dependencia/Pacote> - serve para baixar um novo pacote ou dependencia, passando o nome do que deseja instalar no projeto (sem os sinais de <>).
+_________________________
+> Sobre a Estrutura de Pastas e Arquivos:
 
+- Em projetos mais complexos ou que tendem a ficar robustos, nós tomamos uma abordagem diferente para a estrutura e organização interna. Pense que a forma como estrutura os arquivos do seu projeto farão com que ele seja facil de fazer manutenção
 _________________________
 Material de Apoio:
 
 - [Node Package Manager - Site Oficial](https://www.npmjs.com/)
   - Neste site você pode pesquisar pacotes e dependencias para instalar no seu projeto, ele traz algumas informações além do comando de instalação, e ainda informa quais as dependencias do pacote em questao.
+
+- [O que é Arquitetura de Software?](https://msdn.microsoft.com/pt-br/hh144976.aspx)
+- [JavaScript - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)

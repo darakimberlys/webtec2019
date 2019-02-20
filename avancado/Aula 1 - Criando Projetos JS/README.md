@@ -71,6 +71,14 @@ Material de Apoio:
 - [Node Package Manager - Site Oficial](https://www.npmjs.com/)
   - Neste site você pode pesquisar pacotes e dependências para instalar no seu projeto, ele traz algumas informações além do comando de instalação, e ainda informa quais as dependências do pacote em questao.
 
+- [O que é o Node.js - NodeBR](http://nodebr.com/o-que-e-node-js/)
+    - Artigo sobre o que é o Node no site oficial do Node no Brasil o NodeBR.
+
+- [O que é o NPM - NodeBR](http://nodebr.com/o-que-e-a-npm-do-nodejs/)
+    - Artigo sobre o que é o NPM no site oficial do Node no Brasil o NodeBR.
+
 - [O que é Arquitetura de Software?](https://msdn.microsoft.com/pt-br/hh144976.aspx)
+    - Artigo interessante sobre arquitetura de software e sobre o que um Arquiteto de Software faz.
+
 - [JavaScript - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
     - Este é um dos sites mais importantes, ele traz as últimas especificações do JS, além de artigos, tutoriais, e material para consulta sobre a linguagem, é praticamente a Documentação Oficial.

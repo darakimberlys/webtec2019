@@ -1,23 +1,84 @@
-var Calculos = /** @class */ (function () {
-    function Calculos() {
+import NotasAPI from '../../domain/services/NotasAPI'
+import InstrutoresAPI from '../../domain/services/InstrutoresAPI'
+
+var tabelaNotas = document.querySelector('#notas');
+var tabelaInstrutores = document.querySelector('#instrutores');
+
+function preencheInstrutores () {
+
+    let notas = []
+    let instrutores = []
+
+    NotasAPI.obter().then(respostaNotas => {
+        this.respostaNotas = notas.data
+    })
+    InstrutoresAPI.obter().then(respostaInstrutores => {
+        this.respostaNotas = instrutores.data
+    })
+
+    var instrutores = new Map()
+    var notas = new Map()
+
+    for (var instrutor of instrutores.values) {
+        console.log(instrutor.nome)
     }
-    Calculos.prototype.somar = function (a, b) {
-        return a + b;
-    };
-    Calculos.prototype.multiplicar = function (a, b) {
-        return a * b;
-    };
-    Calculos.prototype.subtrair = function (a, b) {
-        return a - b;
-    };
-    Calculos.prototype.dividir = function (a, b) {
-        return a / b;
-    };
-    return Calculos;
-}());
 
-var calculo = new Calculos();
+    for (var nota of notas.values) {
+        console.log(nota.nome)
+    }
+}
 
-var soma = calculo.somar(10, 33);
+function updateNotas(notas) {
+    tabela.innerHTML = templateNotas(notas);
+}
+function updateInstrutores(instrutores) {
+    tabela.innerHTML = templateInstrutores(instrutores);
+}
 
-console.log(soma);
+function templateInstrutores(instrutores = []) {
+    return `
+    <table class="table table-hover table-bordered">
+        <thead>
+            <tr>
+                <th>Nome</th>
+            </tr>
+        </thead>
+        <tbody>
+        ${
+            instrutores.map(function(instrutores){
+                return `
+                    <tr>
+                        <td>${instrutores.nome}</td>
+                    </tr>
+                `;
+            }).join('')
+        }
+        </tbody>
+    </table>
+    `;
+}
+
+function templateNotas(notas = []) {
+    return `
+    <table class="table table-hover table-bordered">
+        <thead>
+            <tr>
+                <th>Titulo</th>
+                <th>Texto</th>
+            </tr>
+        </thead>
+        <tbody>
+        ${
+            notas.map(function(notas){
+                return `
+                    <tr>
+                        <td>${notas.titulo}</td>
+                        <td>${notas.texto}</td>
+                    </tr>
+                `;
+            }).join('')
+        }
+        </tbody>
+    </table>
+    `;
+}

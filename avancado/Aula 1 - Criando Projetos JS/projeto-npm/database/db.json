@@ -1,0 +1,51 @@
+{
+    "instrutores": {
+        "basico": [
+            {
+                "id": 1,
+                "nome": "Luis Lança"
+            },
+            {
+                "id": 2,
+                "nome": "Ronaldo Gomes"
+            }
+        ],
+        "avancado": [
+            {
+                "id": 1,
+                "nome": "Isac Petinate"
+            },
+            {
+                "id": 2,
+                "nome": "Pedro Bruini"
+            }
+        ]
+    },
+    "notas": [
+        {
+            "id": 1,
+            "titulo": "Fazer aula de classes.",
+            "texto": "Lembrar de fazer a aula 5 de classes"
+        },
+        {
+            "id": 2,
+            "titulo": "Explicar sobre o Event Loop",
+            "texto": "Falar sobre o Event Loop do Node que se comunica com a biblioteca LIBUV do sistema através do C++."
+        },
+        {
+            "id": 3,
+            "titulo": "Segunda aula de DOM",
+            "texto": "Verificar se haverá a segunda aula de DOM do HTML."
+        },
+        {
+            "id": 4,
+            "titulo": "Apresentação da Turma",
+            "texto": "Lembrar de pedir para a galera do avançado se apresentar rapidamente."
+        },
+        {
+            "id": 5,
+            "titulo": "GitHub da Oficina",
+            "texto": "Lembrar de passar o link do GitHub da Oficina."
+        }
+    ]
+}

@@ -24,6 +24,46 @@ ______
 
 _____________________________________
 
-> Links Úteis:
+> Ferramentas e Plugins que utilizamos:
 
-- Coming soon...
+- Terminal de Comandos: PowerShell (Win10) e Terminal (macOS/Linux)
+
+- Gerenciadores de Pacote: NPM e Yarn
+
+- Automatizadores e Bundlers: Gulp e WebPack
+
+- Editores de Texto:
+    - Visual Studio Code
+        - Plugins:
+            - Emmet
+            - Live Server
+            - vscode-spotify
+            - ESLint e TSLint
+            - Path Intellisense
+            - SCSS IntelliSense
+            - Bracket Pair Colorizer 2
+            - Auto Rename Tag e Auto Close Tag
+            - Visual Studio IntelliCode - Preview
+            
+        - Temas:
+            - Monokai Dark Soda SM
+            - Flatland Monokai Theme (ativo atualmente)
+            - Dark Sea
+            - Material Icon Theme (icones)
+
+        - Suporte para:
+            - JavaScript e TypeScript (com sugestões)
+            - C# (OmniSharp)
+
+    - Atom
+        - Os mesmos plugins
+        - Tema: OneDark
+        - Os mesmos suportes
+
+____________________
+> Links Úteis
+
+- [O que o JavaScript? - MDN](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/O_que_e_JavaScript)
+- [JavaScript para Iniciantes](http://tableless.github.io/iniciantes/manual/js/)
+- [Playlists do Keven Jesus sobre JavaScript (curso completo)](https://www.youtube.com/channel/UCn2jh8rvEePP9s61z-H1P1w/playlists)
+- [JavaScript - Wikipedia](https://pt.wikipedia.org/wiki/JavaScript)

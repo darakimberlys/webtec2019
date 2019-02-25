@@ -4,11 +4,11 @@
 
 ______
 
-> Este repositório tem como objetivo armazenar todo o material do básico da WebTec para que os alunos possam consultar e clonar o repo para estudo e afins.
+> Este repositório tem como objetivo armazenar todo o material "básico" da WebTec para que os alunos possam consultar
 
 ______
 
-> Grade de Aulas do Semestre (2019/1):
+> Cronograma do semestre (2019/1):
 
 * Aula 1 - Introdução a páginas Web
 * Aula 2 - Semântica, Tipografia e Tabelas

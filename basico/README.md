@@ -4,7 +4,7 @@
 
 ______
 
-> Este repositório tem como objetivo armazenar todo o material "básico" da WebTec para que os alunos possam consultar
+> Este repositório tem como objetivo armazenar todo o material "básico" da WebTec para que os alunos possam consultar.
 
 ______
 

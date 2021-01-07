@@ -18,7 +18,7 @@
   "dependencies": {
     "@mdi/font": "^3.4.93",
     "@types/node": "^10.12.24",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.2.1",
     "gulp-typescript": "^5.0.0",
     "jquery": "^3.3.1",
